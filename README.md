@@ -1,9 +1,5 @@
 ## Building a RESTful API with Flask - Error Handling, Authentication,and File Handling with Public and Admin Routes
 
-## Project Team Members - Group Mid Term Project 7
-1. Venkata Abhinav Karthik Pulikonda (Cwid -885210294)
-2. Sai Satya Jagannadh Doddipatla (Cwid - 885177436)
-
 ## Drive Link For the Project Demonstration and Screenshots - 
 
  https://drive.google.com/drive/folders/1_-bRyxBzG-MOBr7oRufE9ql5LMYafkMC?usp=sharing
